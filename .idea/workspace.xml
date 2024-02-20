@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0209198b-0765-46c9-a213-0e7977d8d643" name="Changes" comment="People" />
+    <list default="true" id="0209198b-0765-46c9-a213-0e7977d8d643" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708368312924</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="people">
+      <created>1708369100679</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708369100679</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,6 +126,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="People" />
-    <option name="LAST_COMMIT_MESSAGE" value="People" />
+    <MESSAGE value="people" />
+    <option name="LAST_COMMIT_MESSAGE" value="people" />
   </component>
 </project>
